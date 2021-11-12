@@ -1,2 +1,2 @@
 # master-typescript
-Yypescript from scratch
+Tpescript from scratch
